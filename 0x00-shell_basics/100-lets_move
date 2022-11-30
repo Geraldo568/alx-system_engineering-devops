@@ -1,2 +1,2 @@
 #!/bin/bash
-grep  ^[[:upper:]] | rm /tmp/u
+mv *[A-Z] /tmp/u
