@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | "(Ôo)'
+ls -lt "(Ôo)'
